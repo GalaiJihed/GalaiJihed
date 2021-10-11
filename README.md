@@ -6,4 +6,5 @@
 <li>📫 How to reach me: galaijihed94@gmail.com</li>
 </ul>
 
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=galaijihed&show_icons=true&theme=radical"/>
 
