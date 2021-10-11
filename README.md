@@ -5,4 +5,6 @@
 <li>💬 Ask me about Anything if i can help i'll do my best 😄 .</li>
 <li>📫 How to reach me: galaijihed94@gmail.com</li>
 </ul>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GalaiJihed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khalilbouderbela&show_icons=true&theme=radical"/>
